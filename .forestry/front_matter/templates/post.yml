@@ -39,3 +39,10 @@ fields:
   type: text
   hidden: true
   default: post
+- type: field_group
+  name: test_group
+  label: Test Group
+  fields:
+  - type: text
+    name: group_title
+    label: Group Title
