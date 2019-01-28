@@ -1,0 +1,22 @@
+---
+label: Nested Lists
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: field_group_list
+  name: level_1
+  label: Level 1
+  fields:
+  - type: text
+    name: level_1_name
+    label: Level 1 Name
+  - type: field_group_list
+    name: level_2
+    label: Level 2
+    fields:
+    - type: text
+      name: level_2_name
+      label: Level 2 Name
