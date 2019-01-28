@@ -15,6 +15,7 @@ sections:
   label: Pages
   create: all
   templates:
+  - nested-lists
   - landing-page
   - default
 - type: directory
