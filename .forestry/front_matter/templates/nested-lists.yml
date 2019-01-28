@@ -20,5 +20,8 @@ fields:
     - type: text
       name: level_2_name
       label: Level 2 Name
+- type: blocks
+  name: test
+  label: Test
 pages:
 - example.md
