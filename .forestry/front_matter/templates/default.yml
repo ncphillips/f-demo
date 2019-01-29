@@ -25,4 +25,5 @@ fields:
   hidden: true
   default: post
 pages:
+- subpages/cat-page.md
 - subpages/example-subpage.md
