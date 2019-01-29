@@ -26,5 +26,11 @@ fields:
   template_types:
   - text
   - header
+- type: select
+  name: pages
+  config:
+    source:
+      type: pages
+  label: Pages
 pages:
 - example.md
