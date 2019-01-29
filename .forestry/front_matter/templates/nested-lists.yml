@@ -24,7 +24,7 @@ fields:
   name: test
   label: Test
   template_types:
-  - header
   - text
+  - header
 pages:
 - example.md
