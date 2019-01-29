@@ -10,3 +10,21 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
+- type: blocks
+  template_types:
+  - text
+  label: Descriptions
+  name: descriptions
+- type: field_group_list
+  name: peeps
+  label: Peeps
+  fields:
+  - type: text
+    name: peep_name
+    label: Peep name
+- type: list
+  name: colors
+  label: Colors
+  default:
+  - asdfasd
+  - aaa
