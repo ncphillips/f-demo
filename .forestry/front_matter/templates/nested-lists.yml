@@ -23,5 +23,8 @@ fields:
 - type: blocks
   name: test
   label: Test
+  template_types:
+  - header
+  - text
 pages:
 - example.md
