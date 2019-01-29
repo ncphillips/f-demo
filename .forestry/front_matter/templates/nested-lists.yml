@@ -31,7 +31,7 @@ fields:
   config:
     source:
       type: pages
-      section: jekyll-pages
+      section: ''
   label: Pages
 pages:
 - example.md
