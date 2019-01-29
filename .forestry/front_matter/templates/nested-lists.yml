@@ -1,7 +1,8 @@
 ---
 label: Nested Lists
 hide_body: false
-is_partial: false
+is_partial: true
+display_field: subtitle
 fields:
 - type: text
   name: title
@@ -33,5 +34,8 @@ fields:
       type: pages
       section: ''
   label: Pages
+- type: text
+  name: subtitle
+  label: Subtitle
 pages:
 - example.md
