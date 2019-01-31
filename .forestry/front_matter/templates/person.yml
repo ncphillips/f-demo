@@ -38,6 +38,10 @@ fields:
   default: person
 pages:
 - _people/toots.md
-- _people/shoots.md
 - _people/roots.md
+- _people/what-do-i-do.md
 - _people/crackdown.md
+- _people/test.md
+- _people/asdfghjk.md
+- _people/joel-makes-coffee.md
+- _people/lauren-does-too.md
