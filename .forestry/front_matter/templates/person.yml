@@ -37,8 +37,5 @@ fields:
   hidden: true
   default: person
 pages:
-- _people/test-person.md
-- _people/toootles.md
-- _people/banana-cake.md
-- _people/madhouse.md
-- _people/red-rabbit.md
+- _people/toots.md
+- _people/shoots.md
