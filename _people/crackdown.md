@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-title: Smackdown
+title: Smackdown Test
 sub_heading: ''
 thumbnail: ''
 email: ''
