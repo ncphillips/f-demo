@@ -1,0 +1,10 @@
+people:
+- id: nolan
+  name: Nolan P.
+  colors:
+  - red
+  - green
+  - blue
+  stuff:
+    foo: bar
+    baz: yaz
