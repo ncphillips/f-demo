@@ -1,7 +1,6 @@
 ---
 label: person
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -37,11 +36,5 @@ fields:
   hidden: true
   default: person
 pages:
-- _people/toots.md
-- _people/roots.md
-- _people/what-do-i-do.md
 - _people/crackdown.md
-- _people/test.md
-- _people/asdfghjk.md
-- _people/joel-makes-coffee.md
-- _people/lauren-does-too.md
+- _people/roots.md

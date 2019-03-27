@@ -1,7 +1,6 @@
 ---
 label: post
 hide_body: false
-is_partial: true
 display_field: layout
 fields:
 - name: title
