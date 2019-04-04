@@ -10,12 +10,6 @@ fields:
     config:
       required: false
     label: Favourite Website
-  - name: author_fields
-    type: include
-    config:
-      template: author
-    template: ''
-    label: Author Fields
   config:
     min: 
     max: 
