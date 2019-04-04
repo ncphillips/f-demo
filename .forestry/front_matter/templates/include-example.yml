@@ -1,4 +1,17 @@
 ---
 label: Include Example
 hide_body: false
-fields: []
+fields:
+- name: authors
+  type: field_group_list
+  fields:
+  - name: favourite_website
+    type: text
+    config:
+      required: false
+    label: Favourite Website
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Authors
