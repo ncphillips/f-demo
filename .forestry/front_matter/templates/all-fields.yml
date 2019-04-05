@@ -76,3 +76,14 @@ fields:
   type: image_gallery
   config: {}
   label: Gallery
+- name: group
+  type: field_group
+  config: {}
+  label: Group
+- name: repeatable_group
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Repeatable Group
