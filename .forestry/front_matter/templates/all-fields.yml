@@ -26,3 +26,6 @@ fields:
     min: 
     max: 
     step: 
+- name: toggle
+  type: boolean
+  label: Toggle
