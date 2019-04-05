@@ -29,3 +29,15 @@ fields:
 - name: toggle
   type: boolean
   label: Toggle
+- name: select
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Select
