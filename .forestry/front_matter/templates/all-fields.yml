@@ -56,3 +56,14 @@ fields:
   config:
     required: false
     color_format: Hex
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: sortable_list
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Sortable List
