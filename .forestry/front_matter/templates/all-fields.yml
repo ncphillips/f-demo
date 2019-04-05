@@ -87,3 +87,16 @@ fields:
     max: 
     labelField: 
   label: Repeatable Group
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: include
+  type: include
+  config:
+    template: header
+  template: ''
+  label: Include
