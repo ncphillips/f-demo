@@ -15,5 +15,12 @@ fields:
     max: 
     labelField: 
   label: People
+- name: sortable_list
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Sortable List
 pages:
 - People.md
