@@ -1,4 +1,14 @@
 ---
 label: asdfasdf
 hide_body: false
-fields: []
+fields:
+- name: group
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  label: Group
