@@ -1,7 +1,8 @@
 ---
 title: Example
 fruits: []
-blocks: []
+blocks:
+- template: apple-bug
 published: false
 
 ---
