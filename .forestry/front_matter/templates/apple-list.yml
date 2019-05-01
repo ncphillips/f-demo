@@ -1,4 +1,13 @@
 ---
 label: Apple List
 hide_body: true
-fields: []
+fields:
+- name: fruits
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+    source:
+      type: simple
+  label: Fruits
