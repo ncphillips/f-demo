@@ -16,7 +16,7 @@ fields:
   type: blocks
   label: Blocks
   template_types:
-  - apple-bug
+  - apple-list
   config:
     min: 
     max: 
