@@ -20,6 +20,19 @@ fields:
   config:
     min: 
     max: 
+- name: many_lists
+  type: field_group_list
+  fields:
+  - name: lists
+    type: include
+    config: {}
+    template: apple-list
+    label: Lists
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Many Lists
 pages:
 - toot.md
 - toooalip.md
