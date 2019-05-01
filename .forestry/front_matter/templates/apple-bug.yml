@@ -22,6 +22,7 @@ fields:
     max: 
 pages:
 - toot.md
+- t.md
 - test.md
 - test-2.md
 - example-1.md
