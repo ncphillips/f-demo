@@ -13,6 +13,7 @@ blocks:
 - template: apple-list
   fruits:
   - Test
+- template: apple-list
 published: false
 
 ---
