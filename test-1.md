@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Test a
 fruits: []
 blocks:
 - template: apple-list
@@ -16,6 +16,7 @@ blocks:
 - template: apple-list
   fruits: []
 - template: apple-list
+  fruits: []
 published: false
 
 ---
