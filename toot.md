@@ -1,5 +1,5 @@
 ---
-title: Toot asdf
+title: Toot asd
 fruits: []
 blocks:
 - template: apple-list
