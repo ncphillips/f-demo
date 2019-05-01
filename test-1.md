@@ -3,7 +3,8 @@ title: Test
 fruits: []
 blocks:
 - template: apple-list
-  fruits: []
+  fruits:
+  - Test
 - template: apple-list
   fruits: []
 - template: apple-list
@@ -11,6 +12,7 @@ blocks:
 - template: apple-list
   fruits: []
 - template: apple-list
+  fruits: []
 published: false
 
 ---
