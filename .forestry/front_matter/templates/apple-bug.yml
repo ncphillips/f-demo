@@ -23,6 +23,7 @@ fields:
 pages:
 - toot.md
 - t.md
+- tests.md
 - test.md
 - test-2.md
 - example-1.md
