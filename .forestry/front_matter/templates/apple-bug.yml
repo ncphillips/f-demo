@@ -12,3 +12,5 @@ fields:
   config: {}
   template: apple-list
   label: Fruits
+pages:
+- test.md
