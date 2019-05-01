@@ -15,6 +15,7 @@ blocks:
   - Test
 - template: apple-list
   fruits: []
+- template: apple-list
 published: false
 
 ---
