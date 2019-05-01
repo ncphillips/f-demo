@@ -15,6 +15,7 @@ sections:
   label: Pages
   create: all
   templates:
+  - apple-bug
   - repeat-list
   - nested-lists
   - landing-page
