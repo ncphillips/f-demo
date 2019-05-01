@@ -1,7 +1,8 @@
 ---
 title: t
 fruits: []
-blocks: []
+blocks:
+- template: apple-list
 published: false
 
 ---
