@@ -12,6 +12,14 @@ fields:
   config: {}
   template: apple-list
   label: Fruits
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types:
+  - apple-bug
+  config:
+    min: 
+    max: 
 pages:
 - test.md
 - test-2.md
